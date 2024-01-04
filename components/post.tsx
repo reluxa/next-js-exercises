@@ -12,7 +12,6 @@ function getRandomInt(min:number, max:number) {
 }
 
 function getRandomImageURL() {
-    //return "http://placekitten.com/300/300?image=1";
     return "http://placekitten.com/300/300?image=" + getRandomInt(1, 12);
 }
 
