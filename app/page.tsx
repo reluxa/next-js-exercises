@@ -1,5 +1,5 @@
 
-import Post from './post'
+import Post from '../components/post'
 
 export default async function Home() {
   return (
