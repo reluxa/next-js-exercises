@@ -18,7 +18,7 @@ export default function Blogs({ params }: { params: BlogProps }) {
             
             <div className='flex ' >
                 <div className='w-1/5 ' />
-                <div className='flex w-3/5 mx-3 px-3 justify-between'>
+                <div className='flex w-3/5 mx-3 px-3 justify-between font-bold text-gray-800'>
                     <Link href={"/blogs/" + (parseInt(params.blogid, 10)-1)}>Previous</Link>
                     <Link href={"/blogs/" + (parseInt(params.blogid, 10)+1)}>Next</Link>
                 </div>
