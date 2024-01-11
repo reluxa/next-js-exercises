@@ -6,6 +6,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [ ] Add oauth2 authentication (Github, Gmail, Facebook, etc...)
 - [ ] Make it fully reactive
 - [ ] Integrate it with database
+- [ ] Add unit tests
+- [ ] Add E2E integration tests
+- [ ] Create a prod and staging environment
+- [ ] Create CICD pipeline for it
 
 
 First, run the development server:
