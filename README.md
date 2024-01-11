@@ -2,8 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## ToDo
 
-- [x] Add authentication
+- [x] Add simple authentication
+- [ ] Add oauth2 authentication (Github, Gmail, Facebook, etc...)
 - [ ] Make it fully reactive
+- [ ] Integrate it with database
 
 
 First, run the development server:
