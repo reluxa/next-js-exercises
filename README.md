@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - [x] Add simple authentication
 - [ ] Add oauth2 authentication (Github, Gmail, Facebook, etc...)
+- [ ] Integrate a nice component library that can be used with tailwind
 - [ ] Make it fully reactive
 - [ ] Integrate it with database
 - [ ] Add unit tests
